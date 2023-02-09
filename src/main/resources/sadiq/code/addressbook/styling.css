@@ -1,0 +1,17 @@
+.root{
+    -fx-font-weight:bold;
+    -fx-font-size:16;
+}
+
+#add{
+    -fx-text-fill:white;
+    -fx-background-color:white;
+    -fx-graphic: url('add.png');
+}
+
+#del{
+    -fx-text-fill:white;
+    -fx-background-color:white;
+    -fx-graphic: url('remove.jpg');
+
+}
